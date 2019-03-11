@@ -2,13 +2,7 @@
 
 ## Preámbulo
 
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
+Desafio: 
 
 ## Introducción
 
