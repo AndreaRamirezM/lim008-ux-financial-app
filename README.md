@@ -63,72 +63,39 @@ links, encontrarán:
 - Data de uso del MVP de los primeros 6 meses
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
-## Objetivos de aprendizaje
+## OBJETIVOS
+Los objetivos que consideramos para este proyecto, son los siguientes:
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Muchas de ustedes terminarán trabajando en productos
-existentes y deben estar familiarizadas con el proceso de analizar la data del
-producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
-UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+* Comprobar si el User Persona al que está enfocada la aplicación móvil que hemos recibido es la correcta.
+* Identificar si existen necesidades de usuarios que no están siendo cubiertas.
+* Identificar si la aplicación tiene un flujo intuitivo.
+* Rediseñar la aplicación en el caso encontremos ...
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
 
-## Consideraciones generales
+## HIPOTESIS
+Luego de la entrevista que tuvimos con el cliente y del análisis de la data que recibimos, tenemos las siguientes hipótesis: 
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+![A4 2 (1)](https://user-images.githubusercontent.com/45084125/54397783-a7200900-4685-11e9-973f-5294661d0056.png)
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+## INVESTIGACION
+### Entrevistas
+### Observación Contextual
+Dentro de nuestro proceso de investigación, realizamos observaciones contextuales con el objetivo de encontrar información relevante y fidedigna de los usuarios a cerca de la funcionalidad y la experiencia que ellos tenían al usar la aplicación.
+### Testeos de Prototipo Inicial
+### Benchmark
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+## SÍNTESIS Y DEFINICIÓN
+* Quotes más importantes de nuestros usuarios
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
+#### AFFINITY MAP
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu consultora y con el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+#### CUSTOMER JOURNEY MAP
+Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
+![customer](https://user-images.githubusercontent.com/45084125/54399141-0f251e00-468b-11e9-82d9-1ef00f5f3725.jpg)
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
-diseño de tus láminas y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente. En la presentación no deben ocurrir errores.
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  detallando:
+#### PROBLEM STATEMENTS
+Luego de ya conocer a nuestro usuario principal y además conocer sus necesidades, podemos identificar los problemas para empezar a plantear posibles soluciones.
 
 * Objetivos iniciales del proyecto
 * Problemas encontrados tanto a nivel de negocio como a nivel de usuario
