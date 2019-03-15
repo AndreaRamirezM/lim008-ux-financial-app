@@ -119,6 +119,9 @@ Puntos negativos y neutros que identificamos :
 #### PROBLEM STATEMENTS
 Luego de ya conocer a nuestro usuario principal y además conocer sus necesidades, podemos identificar los problemas para empezar a plantear posibles soluciones.
 
+
+![problem statements](https://user-images.githubusercontent.com/45084125/54449858-1137bd00-471d-11e9-89e5-52a3df5bc7a4.png)
+
 * Objetivos iniciales del proyecto
 * Problemas encontrados tanto a nivel de negocio como a nivel de usuario
 * Recomendaciones de próximos pasos para el banco con respecto al app (estas
