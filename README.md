@@ -80,8 +80,18 @@ Luego de la entrevista que tuvimos con el cliente y del análisis de la data que
 
 ## INVESTIGACION
 ### Entrevistas
+#### Objetivo
+Conocer a los potenciales usuarios de la aplicación financiera, identificar sus necesidades, entender sus comportamientos frente al uso de otras aplicaciones relacionadas.
+Aquí presentamos algunas de las citas que fueron relevantes para tomar decisiones en la solución del desafío.
+
+![CITAS ENTREVISTAS](https://user-images.githubusercontent.com/45084125/54445164-3a068500-4712-11e9-81e2-9061212e8156.png)
+- [Guía de entrevistas](https://docs.google.com/document/d/1zcnVLJybcthucIbBnUPcAUN4WqVJBeHt5XERYS-lNTg/edit)
+- [Audios de entrevistas](https://drive.google.com/drive/folders/1-3S31m6U3uVzd68BdqnQNzHOJAlqTyq_)
+
 ### Observación Contextual
-Dentro de nuestro proceso de investigación, realizamos observaciones contextuales con el objetivo de encontrar información relevante y fidedigna de los usuarios a cerca de la funcionalidad y la experiencia que ellos tenían al usar la aplicación.
+#### Objetivo
+Encontrar información relevante y fidedigna de los usuarios a cerca de la funcionalidad y la experiencia que ellos tenían al usar la aplicación.
+
 ![A4 3 (1)](https://user-images.githubusercontent.com/45084125/54441180-37079680-470a-11e9-902e-6bff9bb91c4a.png)
 ### Testeos de Prototipo Inicial
 ### Benchmark
@@ -93,7 +103,7 @@ Dentro de nuestro proceso de investigación, realizamos observaciones contextual
 
 #### CUSTOMER JOURNEY MAP
 Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
-![customer](https://user-images.githubusercontent.com/45084125/54399141-0f251e00-468b-11e9-82d9-1ef00f5f3725.jpg)
+ ![customer](https://user-images.githubusercontent.com/45084125/54399141-0f251e00-468b-11e9-82d9-1ef00f5f3725.jpg) 
 
 #### PROBLEM STATEMENTS
 Luego de ya conocer a nuestro usuario principal y además conocer sus necesidades, podemos identificar los problemas para empezar a plantear posibles soluciones.
