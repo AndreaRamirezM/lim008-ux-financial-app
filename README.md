@@ -82,6 +82,7 @@ Luego de la entrevista que tuvimos con el cliente y del análisis de la data que
 ### Entrevistas
 #### Objetivo
 Conocer a los potenciales usuarios de la aplicación financiera, identificar sus necesidades, entender sus comportamientos frente al uso de otras aplicaciones relacionadas.
+
 Aquí presentamos algunas de las citas que fueron relevantes para tomar decisiones en la solución del desafío.
 
 ![CITAS ENTREVISTAS](https://user-images.githubusercontent.com/45084125/54445164-3a068500-4712-11e9-81e2-9061212e8156.png)
@@ -97,12 +98,12 @@ Encontrar información relevante y fidedigna de los usuarios a cerca de la funci
 ### Benchmark
 
 ## SÍNTESIS Y DEFINICIÓN
-* Quotes más importantes de nuestros usuarios
 
 #### AFFINITY MAP
 
 #### CUSTOMER JOURNEY MAP
 Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
+
  ![customer](https://user-images.githubusercontent.com/45084125/54399141-0f251e00-468b-11e9-82d9-1ef00f5f3725.jpg) 
 
 #### PROBLEM STATEMENTS
