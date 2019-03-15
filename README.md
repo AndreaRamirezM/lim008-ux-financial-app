@@ -105,6 +105,15 @@ Encontrar información relevante y fidedigna de los usuarios a cerca de la funci
 #### CUSTOMER JOURNEY MAP
 Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
 
+Puntos negativos y neutros que identificamos :
+
+1. Ante la posibilidad de instalar la aplicación, los usuarios de dipositivos Android no pueden hacer la descarga. (Datos obtenidos de la data propocionada por el cliente).
+
+2. En la navegación general, es difícil para el usuario regresar al "Home", la espera de carga de las pantallas lo confunde. Los usuarios que no están familiarizados con el ingreso por huella digital, no saben qué hacer y prefieren regresar o cancelar la pantalla que están explorando.
+
+3. El botón de "crear cuenta" no es entendible, el usuario tiene dudas en si creará o no,una nueva cuenta de ahorros en su banco
+
+
  ![customer](https://user-images.githubusercontent.com/45084125/54445792-87372680-4713-11e9-8915-a0a0e59d0c0a.jpg)
 
 #### PROBLEM STATEMENTS
