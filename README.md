@@ -104,7 +104,7 @@ Encontrar información relevante y fidedigna de los usuarios a cerca de la funci
 #### CUSTOMER JOURNEY MAP
 Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
 
- ![customer](https://user-images.githubusercontent.com/45084125/54399141-0f251e00-468b-11e9-82d9-1ef00f5f3725.jpg) 
+ ![customer](https://user-images.githubusercontent.com/45084125/54445792-87372680-4713-11e9-8915-a0a0e59d0c0a.jpg)
 
 #### PROBLEM STATEMENTS
 Luego de ya conocer a nuestro usuario principal y además conocer sus necesidades, podemos identificar los problemas para empezar a plantear posibles soluciones.
