@@ -82,6 +82,7 @@ Luego de la entrevista que tuvimos con el cliente y del análisis de la data que
 ### Entrevistas
 ### Observación Contextual
 Dentro de nuestro proceso de investigación, realizamos observaciones contextuales con el objetivo de encontrar información relevante y fidedigna de los usuarios a cerca de la funcionalidad y la experiencia que ellos tenían al usar la aplicación.
+![A4 3 (1)](https://user-images.githubusercontent.com/45084125/54441180-37079680-470a-11e9-902e-6bff9bb91c4a.png)
 ### Testeos de Prototipo Inicial
 ### Benchmark
 
