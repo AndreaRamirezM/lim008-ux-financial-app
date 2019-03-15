@@ -75,7 +75,8 @@ Los objetivos que consideramos para este proyecto, son los siguientes:
 ## HIPOTESIS
 Luego de la entrevista que tuvimos con el cliente y del análisis de la data que recibimos, tenemos las siguientes hipótesis: 
 
-![A4 2 (1)](https://user-images.githubusercontent.com/45084125/54397783-a7200900-4685-11e9-973f-5294661d0056.png)
+![HIPOTESIS](https://user-images.githubusercontent.com/45084125/54446576-4213f400-4715-11e9-89ce-91ea371c754c.png)
+
 
 
 ## INVESTIGACION
@@ -93,7 +94,7 @@ Aquí presentamos algunas de las citas que fueron relevantes para tomar decision
 #### Objetivo
 Encontrar información relevante y fidedigna de los usuarios a cerca de la funcionalidad y la experiencia que ellos tenían al usar la aplicación.
 
-![A4 3 (1)](https://user-images.githubusercontent.com/45084125/54441180-37079680-470a-11e9-902e-6bff9bb91c4a.png)
+![O C](https://user-images.githubusercontent.com/45084125/54446518-214b9e80-4715-11e9-9c18-ff6dcfa3d184.png)
 ### Testeos de Prototipo Inicial
 ### Benchmark
 
