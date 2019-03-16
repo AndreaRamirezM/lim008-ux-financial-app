@@ -101,6 +101,9 @@ Encontrar información relevante y fidedigna de los usuarios a cerca de la funci
 ## SÍNTESIS Y DEFINICIÓN
 
 #### AFFINITY MAP
+Al terminar las entrevistas, identificamos las citas más relevantes de cada uno y realizamos el mapa de afinidad para clasificarlas por categorías y encontrar patrones de repetición.
+
+![My First Board](https://user-images.githubusercontent.com/45084125/54479124-d6e72200-47e7-11e9-9445-82834b258e75.jpg)
 
 #### CUSTOMER JOURNEY MAP
 Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
@@ -122,75 +125,9 @@ Luego de ya conocer a nuestro usuario principal y además conocer sus necesidade
 
 ![problem statements](https://user-images.githubusercontent.com/45084125/54449858-1137bd00-471d-11e9-89e5-52a3df5bc7a4.png)
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+![Hmg](https://user-images.githubusercontent.com/45084125/54478880-2841e200-47e5-11e9-9a9c-60fc2a7ec65b.png)
 
-### Hacker edition
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- Adapta el diseño del app para iPhone X/XS/XR.
-- Diseña un app para Apple Watch que complemente tu propuesta.
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
-  - [Hip Money](https://www.youtube.com/watch?v=BIesWRESgAc)
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-En el reto del marketplace te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
-
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
-
-### 2) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
-
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
