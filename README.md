@@ -1,8 +1,6 @@
-![001](https://user-images.githubusercontent.com/45071677/54500775-637c0800-48ee-11e9-9426-5d1ec34bed81.png)
-![002](https://user-images.githubusercontent.com/45071677/54501723-f881ff80-48f4-11e9-9caf-368e77ec5fcd.png)
-
-
-
+![001](https://user-images.githubusercontent.com/45071677/54503487-6a5e4700-48fd-11e9-8ec5-b3ba971664da.png)
+![002](https://user-images.githubusercontent.com/45071677/54503497-7c3fea00-48fd-11e9-901a-6ded6bebe06b.png)
+![003](https://user-images.githubusercontent.com/45071677/54503499-7d711700-48fd-11e9-826e-c453c9cc7139.png)
 
 # Aplicación financiera
 
