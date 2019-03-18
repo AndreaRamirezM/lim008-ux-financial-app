@@ -1,4 +1,5 @@
-![INTRO 001](https://user-images.githubusercontent.com/45071677/54500698-88bc4680-48ed-11e9-9133-27fadebff487.png)
+![001](https://user-images.githubusercontent.com/45071677/54500775-637c0800-48ee-11e9-9426-5d1ec34bed81.png)
+
 
 
 # Aplicación financiera
