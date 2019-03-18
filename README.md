@@ -9,10 +9,6 @@
 
 
 
-![ezgif-4-83a0b8bc510e](https://user-images.githubusercontent.com/45071677/54520224-394e3880-4936-11e9-960d-2220a7166f9d.gif)
-
-
-
 
 # Aplicación financiera
 
