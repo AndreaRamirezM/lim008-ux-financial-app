@@ -1,4 +1,4 @@
-![INTRO 001](https://github.com/AndreaRamirezM/lim008-ux-financial-app/issues/2#issue-421996719)
+![INTRO 001](https://user-images.githubusercontent.com/45071677/54500698-88bc4680-48ed-11e9-9133-27fadebff487.png)
 
 
 # Aplicación financiera
