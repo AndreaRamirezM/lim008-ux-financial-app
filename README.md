@@ -18,6 +18,7 @@
 - [Entrevistas con usuarios | Video & Audio](https://drive.google.com/drive/folders/168K9aUCEFQzEI6xK5CYtizq87XuXp8WT?usp=sharing)
 - [Encuesta para corroborar User Persona Primario | Excel](https://docs.google.com/spreadsheets/d/1-x4zN8Oh2qJE2CKxqf1FnBmlXybLakoTtRkieTJZaQc/edit?usp=sharing)
 - [Encuesta para corroborar User Persona Secundario | Excel](https://docs.google.com/spreadsheets/d/1wRLaToLKBl21ndng5nGYi69ta7JRPqVcadWKR1XmkAs/edit?usp=sharing)
+- [Journey Map | HD](https://www.figma.com/file/BFhtKy0TTgx0OQd5LOzM723g/CUSTOMER-JOURNEY-MAP?node-id=4%3A2)
 - [Affinity Map Completo | PDF](https://drive.google.com/file/d/1wX1ArYaOuRV7XI2UojyicAMcVxX2uX3W/view?usp=sharing)
 - [Sketching | JPG ](https://drive.google.com/drive/folders/1-FPvGATZ3Y4-N68tstwnMDMwBVGgQo86?usp=sharing)
 - [Presentaciones | PPTX ](https://drive.google.com/drive/folders/1-FPvGATZ3Y4-N68tstwnMDMwBVGgQo86?usp=sharing)
@@ -27,6 +28,7 @@
 - [MARVEL Proyecto](https://marvelapp.com/project/3808604/)
 - [MARVEL Navegable](https://marvelapp.com/87a838g/screen/53947581)
 - [MARVEL Userflow](https://userflows.marvelapp.com/87a838g?utm_campaign=prototype-player&utm_source=other&utm_medium=web-app&utm_term=player&utm_content=userflows)
+- [ZEPLIN](zpl.io/aMPyd7N)
 
 
 
