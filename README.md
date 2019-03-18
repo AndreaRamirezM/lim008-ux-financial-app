@@ -9,7 +9,30 @@
 ![007](https://user-images.githubusercontent.com/45071677/54521947-0e65e380-493a-11e9-8f8d-2bc82ef27bb7.png)
 
 
-![ezgif-4-83a0b8bc510e](https://user-images.githubusercontent.com/45071677/54520431-b1b4f980-4936-11e9-85f4-07b7bccece10.gif)
+
+
+
+# índice:
+- [Entrevista con el Cliente | Audio ](https://drive.google.com/drive/folders/1-6LYi-qDQWYj2X_whryTL3OcXDrcjbNN?usp=sharing)
+- [Guía de entrevistas con usuarios | Word](https://docs.google.com/document/d/1zcnVLJybcthucIbBnUPcAUN4WqVJBeHt5XERYS-lNTg/edit)
+- [Entrevistas con usuarios | Video & Audio](https://drive.google.com/drive/folders/168K9aUCEFQzEI6xK5CYtizq87XuXp8WT?usp=sharing)
+- [Encuesta para corroborar User Persona Primario | Excel](https://docs.google.com/spreadsheets/d/1-x4zN8Oh2qJE2CKxqf1FnBmlXybLakoTtRkieTJZaQc/edit?usp=sharing)
+- [Encuesta para corroborar User Persona Secundario | Excel](https://docs.google.com/spreadsheets/d/1wRLaToLKBl21ndng5nGYi69ta7JRPqVcadWKR1XmkAs/edit?usp=sharing)
+- [Affinity Map Completo | PDF](https://drive.google.com/file/d/1wX1ArYaOuRV7XI2UojyicAMcVxX2uX3W/view?usp=sharing)
+- [Sketching | JPG ](https://drive.google.com/drive/folders/1-FPvGATZ3Y4-N68tstwnMDMwBVGgQo86?usp=sharing)
+- [Presentaciones | PPTX ](https://drive.google.com/drive/folders/1-FPvGATZ3Y4-N68tstwnMDMwBVGgQo86?usp=sharing)
+- [MAZE Proyecto](https://maze.design/projects/2502805/mazes/2502814)
+- [MAZE Navegable](https://t.maze.design/2502814)
+- [FIGMA Proyecto](https://www.figma.com/file/s6LfemySn3pi3VmhSBTFRb/MONEY-TALK)
+- [MARVEL Proyecto](https://marvelapp.com/project/3808604/)
+- [MARVEL Navegable](https://marvelapp.com/87a838g/screen/53947581)
+- [MARVEL Userflow](https://userflows.marvelapp.com/87a838g?utm_campaign=prototype-player&utm_source=other&utm_medium=web-app&utm_term=player&utm_content=userflows)
+
+
+
+
+
+
 
 
 
