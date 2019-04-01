@@ -87,4 +87,7 @@ Luego de ya conocer a nuestro usuario principal y además conocer sus necesidade
 ![Hmg](https://user-images.githubusercontent.com/45084125/54478880-2841e200-47e5-11e9-9a9c-60fc2a7ec65b.png)
 
 
+## Prototipo navegable
+[Link a prototipo navegable](https://marvelapp.com/87a838g/screen/54005755
+)
 
