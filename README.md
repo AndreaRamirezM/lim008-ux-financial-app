@@ -42,6 +42,7 @@ Luego de la entrevista que tuvimos con el cliente y del análisis de la data que
 Conocer a los potenciales usuarios de la aplicación financiera, identificar sus necesidades, entender sus comportamientos frente al uso de otras aplicaciones relacionadas.
 
 Aquí presentamos algunas de las citas que fueron relevantes para tomar decisiones en la solución del desafío.
+![Uno](![financial app1](https://user-images.githubusercontent.com/45084125/56454018-4a60df80-6310-11e9-97da-3267f0cb1ee8.png)
 
 ![CITAS ENTREVISTAS](https://user-images.githubusercontent.com/45084125/54445164-3a068500-4712-11e9-81e2-9061212e8156.png)
 - [Guía de entrevistas](https://docs.google.com/document/d/1zcnVLJybcthucIbBnUPcAUN4WqVJBeHt5XERYS-lNTg/edit)
