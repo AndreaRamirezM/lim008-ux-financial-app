@@ -1,6 +1,6 @@
 # APP FINANCIERA
 
-![Uno](![financial app1]![fa1](https://user-images.githubusercontent.com/45084125/56454156-40d87700-6312-11e9-8d41-ed04bb0cc6be.png)
+![Uno](https://user-images.githubusercontent.com/45084125/56454156-40d87700-6312-11e9-8d41-ed04bb0cc6be.png)
 ![fa2](https://user-images.githubusercontent.com/45084125/56454511-73d13980-6317-11e9-8642-dd8683543280.png)
 ![benchmark fa3](https://user-images.githubusercontent.com/45084125/56454696-931d9600-631a-11e9-94fd-138ed34ecd1d.png)
 ![Frame 6](https://user-images.githubusercontent.com/45084125/56455406-8b162400-6323-11e9-92d7-2ffd4a2ba429.png)
