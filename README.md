@@ -10,30 +10,14 @@
 
 
 
-
+# LINKS
 - [Guía de entrevistas](https://docs.google.com/document/d/1zcnVLJybcthucIbBnUPcAUN4WqVJBeHt5XERYS-lNTg/edit)
 - [Audios de entrevistas](https://drive.google.com/drive/folders/1-3S31m6U3uVzd68BdqnQNzHOJAlqTyq_)
+- [Encuestas 3 grupos etarios](https://docs.google.com/spreadsheets/d/1wRLaToLKBl21ndng5nGYi69ta7JRPqVcadWKR1XmkAs/edit#gid=875680835)
+- [Affinity Map completo](https://drive.google.com/file/d/1wX1ArYaOuRV7XI2UojyicAMcVxX2uX3W/view)
+- [Herramienta Maze](https://t.maze.design/2502814)
+- [Prototipo navegable Marvel](https://marvelapp.com/87a838g/screen/54005755)
+- [Figma Proyecto](https://www.figma.com/file/s6LfemySn3pi3VmhSBTFRb/MONEY-TALK?node-id=1817%3A3218)
+- [Presentaciones PPT](https://drive.google.com/drive/u/0/folders/1pmL-ocjw84IWokdhA4_XKh5FT15VmSlM)
 
-
-
-
-
-
-
-
-
-#### PROBLEM STATEMENTS
-Luego de ya conocer a nuestro usuario principal y además conocer sus necesidades, podemos identificar los problemas para empezar a plantear posibles soluciones.
-
-
-![problem statements](https://user-images.githubusercontent.com/45084125/54449858-1137bd00-471d-11e9-89e5-52a3df5bc7a4.png)
-
-
-
-![Hmg](https://user-images.githubusercontent.com/45084125/54478880-2841e200-47e5-11e9-9a9c-60fc2a7ec65b.png)
-
-
-## Prototipo navegable
-[Link a prototipo navegable](https://marvelapp.com/87a838g/screen/54005755
-)
 
