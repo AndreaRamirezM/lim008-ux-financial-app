@@ -7,6 +7,7 @@
 ![encuestas](https://user-images.githubusercontent.com/45084125/56455781-66707b00-6328-11e9-9a43-0419ddecd883.png)
 ![sintesis](https://user-images.githubusercontent.com/45084125/56456473-8e64dc00-6332-11e9-9d39-3c0763381254.png)
 ![problem y hmw](https://user-images.githubusercontent.com/45084125/56456669-07653300-6335-11e9-919c-82a2fc9d0953.png)
+![prototipo de alta](https://user-images.githubusercontent.com/45084125/56462003-6a7cb700-6381-11e9-8ce4-ef24e1262d0c.png)
 
 
 
