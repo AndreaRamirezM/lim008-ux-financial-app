@@ -3,34 +3,18 @@
 ![Uno](![financial app1]![fa1](https://user-images.githubusercontent.com/45084125/56454156-40d87700-6312-11e9-8d41-ed04bb0cc6be.png)
 ![fa2](https://user-images.githubusercontent.com/45084125/56454511-73d13980-6317-11e9-8642-dd8683543280.png)
 ![benchmark fa3](https://user-images.githubusercontent.com/45084125/56454696-931d9600-631a-11e9-94fd-138ed34ecd1d.png)
+![Frame 6](https://user-images.githubusercontent.com/45084125/56455406-8b162400-6323-11e9-92d7-2ffd4a2ba429.png)
 
 
 
 
 
 
-## OBJETIVOS
-Los objetivos que consideramos para este proyecto, son los siguientes:
-
-* Comprobar si el User Persona al que está enfocada la aplicación móvil que hemos recibido es la correcta.
-* Identificar si existen necesidades de usuarios que no están siendo cubiertas.
-* Identificar si la aplicación tiene un flujo intuitivo.
-* Rediseñar la aplicación en el caso encontremos ...
-
-
-## HIPOTESIS
-Luego de la entrevista que tuvimos con el cliente y del análisis de la data que recibimos, tenemos las siguientes hipótesis: 
-
-![HIPOTESIS](https://user-images.githubusercontent.com/45084125/54446576-4213f400-4715-11e9-89ce-91ea371c754c.png)
 
 
 
-## INVESTIGACION
-### Entrevistas
-#### Objetivo
-Conocer a los potenciales usuarios de la aplicación financiera, identificar sus necesidades, entender sus comportamientos frente al uso de otras aplicaciones relacionadas.
 
-Aquí presentamos algunas de las citas que fueron relevantes para tomar decisiones en la solución del desafío.
+
 
 
 ![CITAS ENTREVISTAS](https://user-images.githubusercontent.com/45084125/54445164-3a068500-4712-11e9-81e2-9061212e8156.png)
