@@ -6,6 +6,7 @@
 ![Frame 6](https://user-images.githubusercontent.com/45084125/56455406-8b162400-6323-11e9-92d7-2ffd4a2ba429.png)
 ![encuestas](https://user-images.githubusercontent.com/45084125/56455781-66707b00-6328-11e9-9a43-0419ddecd883.png)
 ![sintesis](https://user-images.githubusercontent.com/45084125/56456473-8e64dc00-6332-11e9-9d39-3c0763381254.png)
+![problem y hmw](https://user-images.githubusercontent.com/45084125/56456669-07653300-6335-11e9-919c-82a2fc9d0953.png)
 
 
 
@@ -16,29 +17,10 @@
 
 
 
-### Testeos de Prototipo Inicial
-### Benchmark
-
-## SÍNTESIS Y DEFINICIÓN
-
-#### AFFINITY MAP
-Al terminar las entrevistas, identificamos las citas más relevantes de cada uno y realizamos el mapa de afinidad para clasificarlas por categorías y encontrar patrones de repetición.
-
-![My First Board](https://user-images.githubusercontent.com/45084125/54479124-d6e72200-47e7-11e9-9445-82834b258e75.jpg)
-
-#### CUSTOMER JOURNEY MAP
-Exponemos aquí las interacciones que realiza el usuario en su experiencia con el uso de la aplicación financiera.
-
-Puntos negativos y neutros que identificamos :
-
-1. Ante la posibilidad de instalar la aplicación, los usuarios de dipositivos Android no pueden hacer la descarga. (Datos obtenidos de la data propocionada por el cliente).
-
-2. En la navegación general, es difícil para el usuario regresar al "Home", la espera de carga de las pantallas lo confunde. Los usuarios que no están familiarizados con el ingreso por huella digital, no saben qué hacer y prefieren regresar o cancelar la pantalla que están explorando.
-
-3. El botón de "crear cuenta" no es entendible, el usuario tiene dudas en si creará o no,una nueva cuenta de ahorros en su banco
 
 
- ![customer](https://user-images.githubusercontent.com/45084125/54445792-87372680-4713-11e9-8915-a0a0e59d0c0a.jpg)
+
+
 
 #### PROBLEM STATEMENTS
 Luego de ya conocer a nuestro usuario principal y además conocer sus necesidades, podemos identificar los problemas para empezar a plantear posibles soluciones.
