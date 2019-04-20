@@ -16,7 +16,7 @@
 - [Encuestas 3 grupos etarios](https://docs.google.com/spreadsheets/d/1wRLaToLKBl21ndng5nGYi69ta7JRPqVcadWKR1XmkAs/edit#gid=875680835)
 - [Affinity Map completo](https://drive.google.com/file/d/1wX1ArYaOuRV7XI2UojyicAMcVxX2uX3W/view)
 - [Herramienta Maze](https://t.maze.design/2502814)
-- [Prototipo navegable Marvel](https://marvelapp.com/87a838g/screen/54005755)
+- [Prototipo navegable Marvel](https://marvelapp.com/87a838g/screen/53947581)
 - [Figma Proyecto](https://www.figma.com/file/s6LfemySn3pi3VmhSBTFRb/MONEY-TALK?node-id=1817%3A3218)
 - [Presentaciones PPT](https://drive.google.com/drive/u/0/folders/1pmL-ocjw84IWokdhA4_XKh5FT15VmSlM)
 
