@@ -1,23 +1,10 @@
 # APP FINANCIERA
 
-## Preámbulo
-
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
-
-## Introducción
-
-### Contexto
+![Uno](![financial app1]![fa1](https://user-images.githubusercontent.com/45084125/56454156-40d87700-6312-11e9-8d41-ed04bb0cc6be.png)
+![fa2](https://user-images.githubusercontent.com/45084125/56454511-73d13980-6317-11e9-8642-dd8683543280.png)
 
 
-![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
-### Recursos
 
 
 ## OBJETIVOS
@@ -42,7 +29,6 @@ Luego de la entrevista que tuvimos con el cliente y del análisis de la data que
 Conocer a los potenciales usuarios de la aplicación financiera, identificar sus necesidades, entender sus comportamientos frente al uso de otras aplicaciones relacionadas.
 
 Aquí presentamos algunas de las citas que fueron relevantes para tomar decisiones en la solución del desafío.
-![Uno](![financial app1]![fa1](https://user-images.githubusercontent.com/45084125/56454156-40d87700-6312-11e9-8d41-ed04bb0cc6be.png)
 
 
 ![CITAS ENTREVISTAS](https://user-images.githubusercontent.com/45084125/54445164-3a068500-4712-11e9-81e2-9061212e8156.png)
