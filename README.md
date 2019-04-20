@@ -4,28 +4,16 @@
 ![fa2](https://user-images.githubusercontent.com/45084125/56454511-73d13980-6317-11e9-8642-dd8683543280.png)
 ![benchmark fa3](https://user-images.githubusercontent.com/45084125/56454696-931d9600-631a-11e9-94fd-138ed34ecd1d.png)
 ![Frame 6](https://user-images.githubusercontent.com/45084125/56455406-8b162400-6323-11e9-92d7-2ffd4a2ba429.png)
+![encuestas](https://user-images.githubusercontent.com/45084125/56455781-66707b00-6328-11e9-9a43-0419ddecd883.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-![CITAS ENTREVISTAS](https://user-images.githubusercontent.com/45084125/54445164-3a068500-4712-11e9-81e2-9061212e8156.png)
 - [Guía de entrevistas](https://docs.google.com/document/d/1zcnVLJybcthucIbBnUPcAUN4WqVJBeHt5XERYS-lNTg/edit)
 - [Audios de entrevistas](https://drive.google.com/drive/folders/1-3S31m6U3uVzd68BdqnQNzHOJAlqTyq_)
 
-### Observación Contextual
-#### Objetivo
-Encontrar información relevante y fidedigna de los usuarios a cerca de la funcionalidad y la experiencia que ellos tenían al usar la aplicación.
 
-![O C](https://user-images.githubusercontent.com/45084125/54446518-214b9e80-4715-11e9-9c18-ff6dcfa3d184.png)
+
+
 ### Testeos de Prototipo Inicial
 ### Benchmark
 
