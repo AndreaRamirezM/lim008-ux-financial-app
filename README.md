@@ -5,6 +5,8 @@
 ![benchmark fa3](https://user-images.githubusercontent.com/45084125/56454696-931d9600-631a-11e9-94fd-138ed34ecd1d.png)
 ![Frame 6](https://user-images.githubusercontent.com/45084125/56455406-8b162400-6323-11e9-92d7-2ffd4a2ba429.png)
 ![encuestas](https://user-images.githubusercontent.com/45084125/56455781-66707b00-6328-11e9-9a43-0419ddecd883.png)
+![sintesis](https://user-images.githubusercontent.com/45084125/56456473-8e64dc00-6332-11e9-9d39-3c0763381254.png)
+
 
 
 
